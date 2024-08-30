@@ -1,0 +1,15 @@
+/* Seletor de Elementos */
+body {
+    background-color: rgb(80, 149, 253);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Seletor de Elementos */
+.titulo {
+    text-align: center;
+    margin: 5%;
+}
+
+section {
+    border-bottom: dashed;
+}
